@@ -1,0 +1,2 @@
+file_name,similarity,model_parse_md_file_path,anno_parse_md_file_path
+财报.pdf,0.001,static/doc_parse/test06.csv.md,static/doc/财报.pdf.md
